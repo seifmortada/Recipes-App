@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="redYoutube">#CA1111</color>
+    <color name="yellow">#FF9A00</color>
+    <color name="brown">#433232</color>
+    <color name="gray">#f5f5f5</color>
+</resources>
